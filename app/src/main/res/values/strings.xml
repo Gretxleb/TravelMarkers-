@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TravelMarkers</string>
+    <string name="add_marker">Add Marker</string>
+    <string name="edit_marker">Edit Marker</string>
+    <string name="delete_marker">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Description</string>
+    <string name="markers_list">My Markers</string>
+</resources>
